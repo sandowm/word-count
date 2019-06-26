@@ -11,8 +11,3 @@ CAS ADS
    :maxdepth: 2
 
    cas.rst
-   purpose.rst
-   dependencies.rst
-   usage.rst
-   credit.rst
-   exercises.rst

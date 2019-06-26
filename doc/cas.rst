@@ -23,7 +23,7 @@ Description
 
 This CAS consists of 5 modules (in the folders m[0-9]) and some electives. During the modules some projects were implemented (poet, proj-school). The winter folder was created for the famous winter school.
 
-Some elements of this CAS were performed on other git repositories or locations:
+Some elements of this CAS were dropped on other git repositories or locations:
 
 - Winter School project: Google Drive (non-public)
 - Git: https://escodebar.github.io/trainings/git/#
