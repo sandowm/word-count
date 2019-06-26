@@ -4,17 +4,17 @@ Introduction
 CAS Applied Data Science 
 
 Getting Started
-===============
+---------------
 
 There is no way to learn any of this.
 
 Build and Test
-==============
+--------------
 
 Nothing to build
 
 Contribute
-==========
+----------
 
 Do not even try
 
@@ -25,11 +25,12 @@ This CAS consists of 5 modules (in the folders m[0-9]) and some electives. Durin
 
 Some elements of this CAS were performed on other git repositories or locations:
 
-Winter School project: Google Drive (non-public)
-Git: https://escodebar.github.io/trainings/git/#
-py4Programmers: https://escodebar.github.io/trainings/python/#/
-py4Science: https://github.com/jakevdp/PythonDataScienceHandbook
-M4 Software Documentation: https://coderefinery.github.io/documentation/
+- Winter School project: Google Drive (non-public)
+- Git: https://escodebar.github.io/trainings/git/#
+- py4Programmers: https://escodebar.github.io/trainings/python/#/
+- py4Science: https://github.com/jakevdp/PythonDataScienceHandbook
+- M4 Software Documentation: https://coderefinery.github.io/documentation/
+- pyImageProcessing: https://github.com/guiwitz/Python_image_processing
 
 Courses I took part in
 ======================

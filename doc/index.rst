@@ -4,8 +4,8 @@
    table of contents
 
 
-word-count
-==========
+CAS ADS
+=======
 
 .. toctree::
    :maxdepth: 2
